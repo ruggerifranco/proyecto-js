@@ -1,0 +1,5 @@
+[
+    { "id": 0, "nombre": "PIÑATA", "precio": 3000, "img": "img/piñata-mike.jpeg", "text": "Las piñatas son nuestra especialidad, son únicas, hechas especialmente para vos. Elegí tu diseño y tamaño como más te guste, y nosotros lo hacemos realidad. ¡Contanos tu idea y listo!" },
+    { "id": 1, "nombre": "GUIRNALDA", "precio": 2000, "img": "img/guirnalda-m.jpeg", "text": "Sabemos que parte de la decoración de tu festejo son las guirnaldas. Podes encargar combos combinados con piñata y rosetas, y mucho más! Para más información contáctate con nosotros." },
+    { "id": 2, "nombre": "ROSETA", "precio": 2500, "img": "img/roseta-jirafa.jpeg", "text": "Sumale a tu decoracion rosetas, así será súper completa! Opciones de combos de acuerdo a la temática que más te guste. Contacte con nosotros para ayudarte con más información." }
+]
